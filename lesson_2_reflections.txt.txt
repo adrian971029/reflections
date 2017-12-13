@@ -6,3 +6,7 @@ Em que se difere a área de preparação do diretório de trabalho e do reposit�
 
 Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
  Posso usar ela como intermedio para seleccionar somente a alteraçao que querosubir como commit e fazer uma a uma desse jeito
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+ Serian utiles en situaciones de cambios grandes y experimentales en el programa ademas de si trabajara en projectos con otra persona
+ 
