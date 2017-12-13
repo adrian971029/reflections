@@ -9,4 +9,6 @@ Como você pode usar a área de preparação para garantir que tenha um commit p
 
 Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
  Serian utiles en situaciones de cambios grandes y experimentales en el programa ademas de si trabajara en projectos con otra persona
- 
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+ Ajudam muito pois permitem ter uma vizualizaçao muito melhor de como vai se desenvolvendo o historico dos commit  
