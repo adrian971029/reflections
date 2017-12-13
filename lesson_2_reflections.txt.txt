@@ -1,0 +1,5 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+ Es creado un arquivo .git, es necesario para poder registar los commit
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+ A area de preparacion permite colocar en el medio del camino los arquivos que voce quer fazer un commit, ela permite a seleçao dos msm
