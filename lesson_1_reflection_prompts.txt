@@ -1,0 +1,35 @@
+Como a visualização de uma diferença entre duas versões de um arquivo ajudou você a ver o erro que
+foi introduzido?
+
+    Muito pois ela me lovo especificamente no trecho que tinha diferença entre os dois arquivos.
+
+Como poderia ter acesso fácil a todo o histórico de um arquivo, torná-lo mais
+programador eficiente no longo prazo?
+
+    Con un controlador de versiones
+
+O que você acha que são os prós e contras de escolher manualmente quando criar um
+cometer, como você faz no Git, vs ter versões automaticamente salvas, como o Google
+Docs faz?
+
+    Manualmente eu controlo o tempo e meu historico fica muito melhor e mais preciso
+
+Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar múltiplos
+arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+
+    Porque git foi um sistema pensado para control de versiones de codigo
+
+Como você pode usar os comandos git log e git diff para ver o histórico de arquivos?
+
+    Usando el comando git log yo consigo ver todos los commit que fueron feitos en el repositorio y los mensajes de cada uno, udsando
+   git diff el id del primer commit y despues el id del segundo consigo compararlos para ver el historico
+
+Como o uso do controle de versão pode torná-lo mais confiante para fazer mudanças que
+poderia quebrar alguma coisa?
+
+    El control de versiones me permite guardar cada cambio que realizo en una aplicación por lo qeu si hay algun bugs puedo comparalo con 
+   la versión anterior e incluso volver a versiones anteriores lo queal da mucha seguridad. 
+
+Agora que você tem o seu espaço de trabalho configurado, para o qual você quer tentar usar o Git?
+
+    Para mi control de versiones
