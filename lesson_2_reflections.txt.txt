@@ -12,3 +12,7 @@ Quais são algumas das situações em que branches seriam úteis para manter seu
 
 Como os diagramas ajudam a visualizar a estrutura de branches?
  Ajudam muito pois permitem ter uma vizualizaçao muito melhor de como vai se desenvolvendo o historico dos commit  
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+ Quando dois branches se mesclam se junta todo o codigo que los dos tenian,siguiendo una regra, representamos el diagrama de esa forma porque es el que mejor indica como queda y cual es la forma de accessar a los commit
+ 
