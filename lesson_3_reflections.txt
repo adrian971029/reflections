@@ -9,3 +9,5 @@ Qual é o benefício de ter uma cópia do último estado conhecido do remoto arm
  O beneficio es que se o remote posse cambios mas avançados do que o local voce pode ter accesso nele quando estiver offline
 Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
  Eu colaboraria enviando a parte do codigo mudada para os colaboradores mais seria muito mais trabalhoso 
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+ Eu gostaria de fazer alteraçoes quando vou mudar alguma coisa radical no programa o beneficio ess que consigo manter uma versao diferente da original e posso experimentar com ela 
